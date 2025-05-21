@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+    <song>
+        <name>Shape of You</name>
+        <singer>Ed Sheeran</singer>
+        <composer>Prem</composer>
+        <length>3:00</length>
+    </song>
+    <song>
+        <name>Someone Like You</name>
+        <singer>Adele</singer>
+        <composer>Prem</composer>
+        <length>4:00</length>
+    </song>
+    <song>
+        <name>Blinding Lights</name>
+        <singer>The Weeknd</singer>
+        <composer>Prem</composer>
+        <length>3:00</length>
+    </song>
+    <song>
+        <name>Imagine</name>
+        <singer>John Lennon</singer>
+        <composer>Prem</composer>
+        <length>3:00</length>
+    </song>
+</songs>
