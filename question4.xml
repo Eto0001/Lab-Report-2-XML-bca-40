@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="question4a.xsd">
+    
+    <book isbn="978-1234567890">
+        <title>Question3</title>
+        <author title="mr" phone="9800000001" email="premadh1@gmail.com">
+            <name>
+                <first>Prem</first>
+                <middle>Bahadur</middle>
+                <last>Adhikari</last>
+            </name>
+        </author>
+        <author phone="9800000002" email="premadh2@gmail.com">
+            <name>
+                <first>Prema</first>
+                <last>Lama</last>
+            </name>
+        </author>
+        <pageNo>250</pageNo>
+        <price currency="USD">500</price>
+    </book>
+
+    <book isbn="978-0987654321">
+        <title>Advanced XML</title>
+        <author title="mrs" phone="9800000003" email="premadh3@gmail.com">
+            <name>
+                <first>Pemba</first>
+                <middle>Rana</middle>
+                <last>Magar</last>
+            </name>
+        </author>
+        <pageNo>300</pageNo>
+        <price currency="NPR">599</price>
+    </book>
+
+</books>
